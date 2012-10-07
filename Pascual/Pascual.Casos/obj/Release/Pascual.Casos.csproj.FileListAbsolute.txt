@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Casos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Casos\bin\Release\Pascual.Casos.exe
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Casos\bin\Release\Pascual.Casos.pdb
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Casos\obj\Release\Pascual.Casos.exe
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Casos\obj\Release\Pascual.Casos.pdb

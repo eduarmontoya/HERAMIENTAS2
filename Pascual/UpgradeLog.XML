@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pascual">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\solupc\Desktop\Pascual\Pascual.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\solupc\Desktop\Pascual\Pascual.suo">
+</Property><Property Name="Date" Value="martes, 11 de septiembre de 2012">
+</Property><Property Name="Time" Value="19:52">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Pascual.sln" Description="La copia C:\Users\solupc\Desktop\Pascual\Backup\Pascual.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Pascual.suo" Description="La copia C:\Users\solupc\Desktop\Pascual\Backup\Pascual.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Pascual.Ejemplo" Source="Pascual.Ejemplo\Pascual.Ejemplo.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\solupc\Desktop\Pascual\Backup\Pascual.Ejemplo\Pascual.Ejemplo.csproj">
+</Event><Event ErrorLevel="0" Project="Pascual.Ejemplo" Source="Pascual.Ejemplo\Pascual.Ejemplo.csproj.user" Description="La copia de seguridad C:\Users\solupc\Desktop\Pascual\Backup\Pascual.Ejemplo\Pascual.Ejemplo.csproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="Pascual.Ejemplo" Source="Pascual.Ejemplo\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\solupc\Desktop\Pascual\Backup\Pascual.Ejemplo\Program.cs">
+</Event><Event ErrorLevel="0" Project="Pascual.Ejemplo" Source="Pascual.Ejemplo\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\solupc\Desktop\Pascual\Backup\Pascual.Ejemplo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Pascual.Ejemplo" Source="Pascual.Ejemplo\Pascual.Ejemplo.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Pascual.Ejemplo" Source="Pascual.Ejemplo\Pascual.Ejemplo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pascual.Practica" Source="Pascual.Practica\Pascual.Practica.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\solupc\Desktop\Pascual\Backup\Pascual.Practica\Pascual.Practica.csproj">
+</Event><Event ErrorLevel="0" Project="Pascual.Practica" Source="Pascual.Practica\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\solupc\Desktop\Pascual\Backup\Pascual.Practica\Program.cs">
+</Event><Event ErrorLevel="0" Project="Pascual.Practica" Source="Pascual.Practica\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\solupc\Desktop\Pascual\Backup\Pascual.Practica\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Pascual.Practica" Source="Pascual.Practica\Pascual.Practica.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Pascual.Practica" Source="Pascual.Practica\Pascual.Practica.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pascual.Casos" Source="Pascual.Casos\Pascual.Casos.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\solupc\Desktop\Pascual\Backup\Pascual.Casos\Pascual.Casos.csproj">
+</Event><Event ErrorLevel="0" Project="Pascual.Casos" Source="Pascual.Casos\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\solupc\Desktop\Pascual\Backup\Pascual.Casos\Program.cs">
+</Event><Event ErrorLevel="0" Project="Pascual.Casos" Source="Pascual.Casos\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\solupc\Desktop\Pascual\Backup\Pascual.Casos\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Pascual.Casos" Source="Pascual.Casos\Pascual.Casos.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Pascual.Casos" Source="Pascual.Casos\Pascual.Casos.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pascual.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Pascual.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pascual.Ejemplo" Source="Pascual.Ejemplo\Pascual.Ejemplo.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Pascual.Practica" Source="Pascual.Practica\Pascual.Practica.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Pascual.Casos" Source="Pascual.Casos\Pascual.Casos.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

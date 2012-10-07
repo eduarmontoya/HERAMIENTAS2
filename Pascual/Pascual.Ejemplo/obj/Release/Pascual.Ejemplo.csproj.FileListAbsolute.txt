@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Ejemplo\bin\Release\Pascual.Ejemplo.exe
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Ejemplo\bin\Release\Pascual.Ejemplo.pdb
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Ejemplo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Ejemplo\obj\Release\Pascual.Ejemplo.exe
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Ejemplo\obj\Release\Pascual.Ejemplo.pdb

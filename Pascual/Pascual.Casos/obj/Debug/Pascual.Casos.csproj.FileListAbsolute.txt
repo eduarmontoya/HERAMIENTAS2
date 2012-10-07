@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Casos\bin\Debug\Pascual.Casos.exe
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Casos\bin\Debug\Pascual.Casos.pdb
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Casos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Casos\obj\Debug\Pascual.Casos.exe
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Casos\obj\Debug\Pascual.Casos.pdb
+C:\Users\solupc\Desktop\Pascual\Pascual.Casos\obj\Debug\Pascual.Casos.exe
+C:\Users\solupc\Desktop\Pascual\Pascual.Casos\obj\Debug\Pascual.Casos.pdb
+C:\Users\solupc\Desktop\Pascual\Pascual.Casos\bin\Debug\Pascual.Casos.exe
+C:\Users\solupc\Desktop\Pascual\Pascual.Casos\bin\Debug\Pascual.Casos.pdb
+C:\Users\solupc\Desktop\Pascual\Pascual.Casos\obj\Debug\ResolveAssemblyReference.cache

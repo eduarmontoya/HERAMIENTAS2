@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Practica\bin\Debug\Pascual.Practica.exe
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Practica\bin\Debug\Pascual.Practica.pdb
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Practica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Practica\obj\Debug\Pascual.Practica.exe
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\Pascual\Pascual.Practica\obj\Debug\Pascual.Practica.pdb
+C:\Users\solupc\Desktop\Pascual\Pascual.Practica\bin\Debug\Pascual.Practica.exe
+C:\Users\solupc\Desktop\Pascual\Pascual.Practica\bin\Debug\Pascual.Practica.pdb
+C:\Users\solupc\Desktop\Pascual\Pascual.Practica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\solupc\Desktop\Pascual\Pascual.Practica\obj\Debug\Pascual.Practica.exe
+C:\Users\solupc\Desktop\Pascual\Pascual.Practica\obj\Debug\Pascual.Practica.pdb
